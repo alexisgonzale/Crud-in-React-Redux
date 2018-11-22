@@ -1,0 +1,63 @@
+{
+  "customers": [
+    {
+      "id": "27000000",
+      "dni": "27000000",
+      "name": "Alexis ",
+      "age": 21
+    },
+    {
+      "id": "30000001",
+      "dni": "30000001",
+      "name": "Alexis González",
+      "age": 212
+    },
+    {
+      "id": "33000000",
+      "dni": "33000000",
+      "name": "Luis Martinez",
+      "age": 322222
+    },
+    {
+      "id": "8000000",
+      "dni": "8000000",
+      "name": "Wendy María",
+      "age": 35
+    },
+    {
+      "name": "NUEVO CLIENTE",
+      "dni": "66660000",
+      "age": 12,
+      "id": "~gd5LsL"
+    },
+    {
+      "name": "NUEVO CLIENTE",
+      "dni": "66660000",
+      "age": 12,
+      "id": "7c5clbz"
+    },
+    {
+      "name": "NUEVO CLIENTE",
+      "dni": "66660000",
+      "age": 12,
+      "id": "~lh0dUp"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
